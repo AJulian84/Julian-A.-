@@ -2,7 +2,6 @@
 
 Aspiring web and software developer—with an added interest in writing and graphic design.  
 Currently studying computer science :sunglasses:
-Also check out my Medium:
 
 ![Bloomd](https://github-readme-stats.vercel.app/api?username=bloomdw&count_private=true&theme=nightowl)
 
