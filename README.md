@@ -11,6 +11,10 @@ Currently studying computer science :sunglasses:
 ### Contact me and look at my other work:
 
 <p>
-<img src="./mediumicon.png" alt="Medium" width="36" height="36">
-<img src="./twittericon.png" alt="Twitter" width="36" height="36">
+  <a href="https://medium.com/@bloomd">
+    <img src="./mediumicon.png" alt="Medium" width="36" height="36">
+  </a>
+  <a href="https://twitter.com/Bloomdww">
+    <img src="./twittericon.png" alt="Twitter" width="36" height="36">
+  </a>
 </p>
