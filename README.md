@@ -11,5 +11,5 @@ Also check out my Medium:
 ## Misc 
 ###Contact me and look at my other work:
 
-[![Medium](mediumicon)](https://medium.com/@bloomd)
-[![Twitter](twittericon)](https://twitter.com/Bloomdww)
+[![Medium](https://cdn.iconscout.com/icon/free/png-256/medium-47-433328.png)](https://medium.com/@bloomd)
+[![Twitter](https://cdn.iconscout.com/icon/free/png-256/twitter-1653087-1402375.png)](https://twitter.com/Bloomdww)
