@@ -1,4 +1,4 @@
-# Bloomd's little spot
+# Julian's little spot 
 
 Aspiring web and software developer—with an added interest in writing and graphic design.  
 Currently studying computer science :sunglasses:
