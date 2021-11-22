@@ -9,7 +9,9 @@ Also check out my Medium:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bloomdw)](https://github.com/bloomdw/github-readme-stats&theme=nightowl)
 
 ## Misc 
-###Contact me and look at my other work:
+### Contact me and look at my other work:
 
-[![Medium](https://cdn.iconscout.com/icon/free/png-256/medium-47-433328.png)](https://medium.com/@bloomd)
-[![Twitter](https://cdn.iconscout.com/icon/free/png-256/twitter-1653087-1402375.png)](https://twitter.com/Bloomdww)
+<p>
+<img src="./mediumicon.png" alt="Medium" width="36" height="36">
+<img src="./twittericon.png" alt="Twitter" width="36" height="36">
+</p>
