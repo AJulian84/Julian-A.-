@@ -3,9 +3,9 @@
 Aspiring web and software developer—with an added interest in writing and graphic design.  
 Currently studying computer science :sunglasses:
 
-![AJulian84](https://github-readme-stats.vercel.app/api?username=AJulian84&count_private=true&theme=nightowl)
+![AJulian84](https://github-readme-stats.vercel.app/api?username=AJuls&count_private=true&theme=nightowl)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJulian84)](https://github.com/AJulian84/github-readme-stats&theme=nightowl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJuls)](https://github.com/AJuls/github-readme-stats&theme=nightowl)
 
 ## Misc 
 ### Contact me and look at my other work:
